@@ -1,0 +1,6 @@
+libdisasm.a filter=lfs diff=lfs merge=lfs -text
+libfesvr.a filter=lfs diff=lfs merge=lfs -text
+libriscv.so filter=lfs diff=lfs merge=lfs -text
+libsoftfloat.so filter=lfs diff=lfs merge=lfs -text
+pkgconfig filter=lfs diff=lfs merge=lfs -text
+libcustomext.so filter=lfs diff=lfs merge=lfs -text
