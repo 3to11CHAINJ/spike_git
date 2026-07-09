@@ -22,3 +22,5 @@ flex.tar.gz filter=lfs diff=lfs merge=lfs -text
 libicui18n.so filter=lfs diff=lfs merge=lfs -text
 libicuuc.so.70 filter=lfs diff=lfs merge=lfs -text
 .tar.gz filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+riscv-gnu.tar.gz filter=lfs diff=lfs merge=lfs -text
